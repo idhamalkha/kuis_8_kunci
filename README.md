@@ -48,5 +48,4 @@ flutter build apk --release
 
 If you want, I can provide the exact `git` commands to create a minimal repo containing only the three items and push to `https://github.com/idhamalkha/kuis_8_kunci.git` (SSH or HTTPS). 
 
-Preview
 ![Screenshot_2025-12-14-15-05-07-697_com example quiz_app](https://github.com/user-attachments/assets/1c653268-c385-4792-8324-7e43cba7563f)
